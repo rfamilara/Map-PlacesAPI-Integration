@@ -1,6 +1,6 @@
 # Map-PlacesAPI-Integration
 
-This document explains how we begin testing the API with json array then with PLaces API to GET venue information. The venue category was set as pizza while the filter was initially narrowed down to the state of Chicago; hence, the latitude of 41.878 and longitude -87.630.
+This document explains initial integration with Foursquare API to GET data and display json array then with PLaces API to GET venue information. The venue category was set as pizza while the filter was initially narrowed down to the state of Chicago; hence, the latitude of 41.878 and longitude -87.630 was also set up.
 
 We signed up to https://developer.foursquare.com/docs/api then acquired the client_ID and client_secret then perform initial tests through POSTMAN and Code sandbox. Initial actions performed were as follows:
 
