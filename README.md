@@ -5,7 +5,7 @@ This document explains out P1za team's initial integration with Foursquare API t
 We signed up to https://developer.foursquare.com/docs/api then acquired the client_ID and client_secret then perform initial tests through POSTMAN and Code sandbox. Initial actions performed were as follows:
 
 #1- retrieves 10 pizza places and displays a json array
-json array of initial 10 sample pizza places retrieved(Used POSTMAN to GET and test):           https://api.foursquare.com/v2/venues/searchclient_id=AAK5YW24JUNRUTVSMMRAVVDAJQB2YN3K1IG1XTWP5NYDA1LB&client_secret=WS4TNCUOCJVEIXCZ0ALYXMZ5XJB0SQ11CPICSP2VPCJ1IXIY&v=20190425&near=chicago&intent=checkin&limit=10&categoryId=4bf58dd8d48988d1ca941735 
+json array of initial 10 sample pizza places retrieved(Used POSTMAN to GET and test):           https://api.foursquare.com/v2/venues/searchclient_id={{Client}}_ID&client_secret={{Client_Secret}}&v=20190425&near=chicago&intent=checkin&limit=10&categoryId=4bf58dd8d48988d1ca941735 
 
 
 #2- retrieves a pizza place by name and displays the info we want
@@ -17,8 +17,8 @@ Clean the “GET” query which generated similar expected information output as
 getVenues = () => {
     const endPoint = "https://api.foursquare.com/v2/venues/explore?"
     const parameters = {
-      client_id: "AAK5YW24JUNRUTVSMMRAVVDAJQB2YN3K1IG1XTWP5NYDA1LB",
-      client_secret: "WS4TNCUOCJVEIXCZ0ALYXMZ5XJB0SQ11CPICSP2VPCJ1IXIY",
+      client_id: "{{Client_ID}}",
+      client_secret: "{{Client_Secret}}",
       query: "pizza",
       near: "Chicago",
       v: "20190425"
