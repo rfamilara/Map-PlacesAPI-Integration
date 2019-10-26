@@ -1,0 +1,535 @@
+{
+    "meta": {
+        "code": 200,
+        "requestId": "5db42ecb446ea60039f83e5c"
+    },
+    "response": {
+        "venues": [
+            {
+                "id": "4b7f38e5f964a5203f2030e3",
+                "name": "Connie's Pizza",
+                "location": {
+                    "address": "2373 S Archer Ave",
+                    "crossStreet": "at Normal Ave",
+                    "lat": 41.84921445991613,
+                    "lng": -87.64075656635572,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 41.84921445991613,
+                            "lng": -87.64075656635572
+                        }
+                    ],
+                    "distance": 3326,
+                    "postalCode": "60616",
+                    "cc": "US",
+                    "city": "Chicago",
+                    "state": "IL",
+                    "country": "United States",
+                    "formattedAddress": [
+                        "2373 S Archer Ave (at Normal Ave)",
+                        "Chicago, IL 60616",
+                        "United States"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d1ca941735",
+                        "name": "Pizza Place",
+                        "pluralName": "Pizza Places",
+                        "shortName": "Pizza",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1572089547",
+                "hasPerk": false
+            },
+            {
+                "id": "4b91ccaaf964a5203ed833e3",
+                "name": "Punky's Pizza & Pasta",
+                "location": {
+                    "address": "2600 S Wallace St",
+                    "crossStreet": "at W 26th St",
+                    "lat": 41.84538075235853,
+                    "lng": -87.64175579927414,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 41.84538075235853,
+                            "lng": -87.64175579927414
+                        }
+                    ],
+                    "distance": 3759,
+                    "postalCode": "60616",
+                    "cc": "US",
+                    "city": "Chicago",
+                    "state": "IL",
+                    "country": "United States",
+                    "formattedAddress": [
+                        "2600 S Wallace St (at W 26th St)",
+                        "Chicago, IL 60616",
+                        "United States"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d1ca941735",
+                        "name": "Pizza Place",
+                        "pluralName": "Pizza Places",
+                        "shortName": "Pizza",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "delivery": {
+                    "id": "624",
+                    "url": "https://www.grubhub.com/restaurant/punkys-pizza--2600-s-wallace-st-chicago/624?affiliate=1131&utm_source=foursquare-affiliate-network&utm_medium=affiliate&utm_campaign=1131&utm_content=624",
+                    "provider": {
+                        "name": "grubhub",
+                        "icon": {
+                            "prefix": "https://fastly.4sqi.net/img/general/cap/",
+                            "sizes": [
+                                40,
+                                50
+                            ],
+                            "name": "/delivery_provider_grubhub_20180129.png"
+                        }
+                    }
+                },
+                "referralId": "v-1572089547",
+                "hasPerk": false
+            },
+            {
+                "id": "4bc00739f8219c74b822b110",
+                "name": "Benny's Pizza II",
+                "location": {
+                    "address": "1244 W 18th St",
+                    "crossStreet": "at S Allport St",
+                    "lat": 41.85801095205138,
+                    "lng": -87.6580236525644,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 41.85801095205138,
+                            "lng": -87.6580236525644
+                        }
+                    ],
+                    "distance": 3216,
+                    "postalCode": "60608",
+                    "cc": "US",
+                    "city": "Chicago",
+                    "state": "IL",
+                    "country": "United States",
+                    "formattedAddress": [
+                        "1244 W 18th St (at S Allport St)",
+                        "Chicago, IL 60608",
+                        "United States"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d1ca941735",
+                        "name": "Pizza Place",
+                        "pluralName": "Pizza Places",
+                        "shortName": "Pizza",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "delivery": {
+                    "id": "625292",
+                    "url": "https://www.grubhub.com/restaurant/bennys-pizza-1244-w-18th-st-chicago/625292?affiliate=1131&utm_source=foursquare-affiliate-network&utm_medium=affiliate&utm_campaign=1131&utm_content=625292",
+                    "provider": {
+                        "name": "grubhub",
+                        "icon": {
+                            "prefix": "https://fastly.4sqi.net/img/general/cap/",
+                            "sizes": [
+                                40,
+                                50
+                            ],
+                            "name": "/delivery_provider_grubhub_20180129.png"
+                        }
+                    }
+                },
+                "referralId": "v-1572089547",
+                "hasPerk": false
+            },
+            {
+                "id": "4bb64b686edc76b05eb5301c",
+                "name": "Freddie's Pizza",
+                "location": {
+                    "address": "701 W 31st St",
+                    "crossStreet": "at Union Ave.",
+                    "lat": 41.83792259904969,
+                    "lng": -87.64395529901704,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 41.83792259904969,
+                            "lng": -87.64395529901704
+                        }
+                    ],
+                    "distance": 4608,
+                    "postalCode": "60616",
+                    "cc": "US",
+                    "city": "Chicago",
+                    "state": "IL",
+                    "country": "United States",
+                    "formattedAddress": [
+                        "701 W 31st St (at Union Ave.)",
+                        "Chicago, IL 60616",
+                        "United States"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d1ca941735",
+                        "name": "Pizza Place",
+                        "pluralName": "Pizza Places",
+                        "shortName": "Pizza",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1572089547",
+                "hasPerk": false
+            },
+            {
+                "id": "55849316498e0bd8a557b01d",
+                "name": "Aurelio's Pizza - Chicago-South Loop",
+                "location": {
+                    "address": "1212 S Michigan Ave",
+                    "crossStreet": "at Roosevelt",
+                    "lat": 41.867041,
+                    "lng": -87.624646,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 41.867041,
+                            "lng": -87.624646
+                        }
+                    ],
+                    "distance": 1298,
+                    "postalCode": "60605",
+                    "cc": "US",
+                    "city": "Chicago",
+                    "state": "IL",
+                    "country": "United States",
+                    "formattedAddress": [
+                        "1212 S Michigan Ave (at Roosevelt)",
+                        "Chicago, IL 60605",
+                        "United States"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d1ca941735",
+                        "name": "Pizza Place",
+                        "pluralName": "Pizza Places",
+                        "shortName": "Pizza",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "delivery": {
+                    "id": "313310",
+                    "url": "https://www.grubhub.com/restaurant/aurelios-pizza-1212-s-michigan-ave-chicago/313310?affiliate=1131&utm_source=foursquare-affiliate-network&utm_medium=affiliate&utm_campaign=1131&utm_content=313310",
+                    "provider": {
+                        "name": "grubhub",
+                        "icon": {
+                            "prefix": "https://fastly.4sqi.net/img/general/cap/",
+                            "sizes": [
+                                40,
+                                50
+                            ],
+                            "name": "/delivery_provider_grubhub_20180129.png"
+                        }
+                    }
+                },
+                "referralId": "v-1572089547",
+                "hasPerk": false
+            },
+            {
+                "id": "4b5bb11df964a520551029e3",
+                "name": "Pizza Milan",
+                "location": {
+                    "address": "1648 W 18th St",
+                    "lat": 41.85781548540015,
+                    "lng": -87.6607067105838,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 41.85781548540015,
+                            "lng": -87.6607067105838
+                        }
+                    ],
+                    "distance": 3395,
+                    "postalCode": "60608",
+                    "cc": "US",
+                    "city": "Chicago",
+                    "state": "IL",
+                    "country": "United States",
+                    "formattedAddress": [
+                        "1648 W 18th St",
+                        "Chicago, IL 60608",
+                        "United States"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d1ca941735",
+                        "name": "Pizza Place",
+                        "pluralName": "Pizza Places",
+                        "shortName": "Pizza",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1572089547",
+                "hasPerk": false
+            },
+            {
+                "id": "4a63b5c3f964a5209fc51fe3",
+                "name": "Pizano's Pizza",
+                "location": {
+                    "address": "61 E Madison St.",
+                    "crossStreet": "btwn S Wabash Ave. & N Garland Ct.",
+                    "lat": 41.88203067877805,
+                    "lng": -87.62564191295317,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 41.88203067877805,
+                            "lng": -87.62564191295317
+                        }
+                    ],
+                    "distance": 576,
+                    "postalCode": "60603",
+                    "cc": "US",
+                    "city": "Chicago",
+                    "state": "IL",
+                    "country": "United States",
+                    "formattedAddress": [
+                        "61 E Madison St. (btwn S Wabash Ave. & N Garland Ct.)",
+                        "Chicago, IL 60603",
+                        "United States"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d1ca941735",
+                        "name": "Pizza Place",
+                        "pluralName": "Pizza Places",
+                        "shortName": "Pizza",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "venuePage": {
+                    "id": "91900632"
+                },
+                "referralId": "v-1572089547",
+                "hasPerk": false
+            },
+            {
+                "id": "4d6409892f16b60c7625e7f4",
+                "name": "Caire's Pizza",
+                "location": {
+                    "address": "1165 W 18th St",
+                    "crossStreet": "at S Racine Ave",
+                    "lat": 41.85793070777238,
+                    "lng": -87.6547753771281,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 41.85793070777238,
+                            "lng": -87.6547753771281
+                        }
+                    ],
+                    "distance": 3034,
+                    "postalCode": "60608",
+                    "cc": "US",
+                    "city": "Chicago",
+                    "state": "IL",
+                    "country": "United States",
+                    "formattedAddress": [
+                        "1165 W 18th St (at S Racine Ave)",
+                        "Chicago, IL 60608",
+                        "United States"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d1ca941735",
+                        "name": "Pizza Place",
+                        "pluralName": "Pizza Places",
+                        "shortName": "Pizza",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1572089547",
+                "hasPerk": false
+            },
+            {
+                "id": "4b3807ebf964a5208a4a25e3",
+                "name": "Domino's Pizza",
+                "location": {
+                    "address": "1234 S Canal St",
+                    "crossStreet": "Roosevelt",
+                    "lat": 41.86626877573359,
+                    "lng": -87.64030744137017,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 41.86626877573359,
+                            "lng": -87.64030744137017
+                        }
+                    ],
+                    "distance": 1560,
+                    "postalCode": "60607",
+                    "cc": "US",
+                    "city": "Chicago",
+                    "state": "IL",
+                    "country": "United States",
+                    "formattedAddress": [
+                        "1234 S Canal St (Roosevelt)",
+                        "Chicago, IL 60607",
+                        "United States"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d1ca941735",
+                        "name": "Pizza Place",
+                        "pluralName": "Pizza Places",
+                        "shortName": "Pizza",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1572089547",
+                "hasPerk": false
+            },
+            {
+                "id": "59c93096e1f0aa4b92733165",
+                "name": "Art Of Pizza",
+                "location": {
+                    "address": "727 S State St",
+                    "crossStreet": "W Polk St",
+                    "lat": 41.872312042199084,
+                    "lng": -87.6275872390607,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 41.872312042199084,
+                            "lng": -87.6275872390607
+                        }
+                    ],
+                    "distance": 664,
+                    "postalCode": "60605",
+                    "cc": "US",
+                    "neighborhood": "South Loop",
+                    "city": "Chicago",
+                    "state": "IL",
+                    "country": "United States",
+                    "formattedAddress": [
+                        "727 S State St (W Polk St)",
+                        "Chicago, IL 60605",
+                        "United States"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d1ca941735",
+                        "name": "Pizza Place",
+                        "pluralName": "Pizza Places",
+                        "shortName": "Pizza",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "delivery": {
+                    "id": "1259214",
+                    "url": "https://www.grubhub.com/restaurant/art-of-pizza-727-s-state-st-chicago/1259214?affiliate=1131&utm_source=foursquare-affiliate-network&utm_medium=affiliate&utm_campaign=1131&utm_content=1259214",
+                    "provider": {
+                        "name": "grubhub",
+                        "icon": {
+                            "prefix": "https://fastly.4sqi.net/img/general/cap/",
+                            "sizes": [
+                                40,
+                                50
+                            ],
+                            "name": "/delivery_provider_grubhub_20180129.png"
+                        }
+                    }
+                },
+                "referralId": "v-1572089547",
+                "hasPerk": false
+            }
+        ],
+        "geocode": {
+            "what": "",
+            "where": "chicago",
+            "feature": {
+                "cc": "US",
+                "name": "Chicago",
+                "displayName": "Chicago, IL",
+                "matchedName": "Chicago, IL",
+                "highlightedName": "<b>Chicago</b>, IL",
+                "woeType": 7,
+                "slug": "chicago-illinois",
+                "id": "geonameid:4887398",
+                "longId": "72057594042815334",
+                "geometry": {
+                    "center": {
+                        "lat": 41.85003,
+                        "lng": -87.65005
+                    },
+                    "bounds": {
+                        "ne": {
+                            "lat": 42.023134999999996,
+                            "lng": -87.52366099999999
+                        },
+                        "sw": {
+                            "lat": 41.644286,
+                            "lng": -87.940101
+                        }
+                    }
+                }
+            },
+            "parents": []
+        }
+    }
+}
