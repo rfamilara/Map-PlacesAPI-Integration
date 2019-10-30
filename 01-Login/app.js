@@ -17,9 +17,9 @@ dotenv.config();
 // Configure Passport to use Auth0
 var strategy = new Auth0Strategy(
   {
-    domain: process.env.AUTH0_DOMAIN,
-    clientID: process.env.AUTH0_CLIENT_ID,
-    clientSecret: process.env.AUTH0_CLIENT_SECRET,
+    domain: process.env.dev-fqrv3w7t.auth0.com,
+    clientID: process.env.X4UPS0PSLV9z2DeJUwZ7pJmFevoHyhJ1,
+    clientSecret: process.env.SBAADjevf1llJL7z-qF9FpVYCMF16x1N8-yDpy7dOwrYdyz7HmC5fMljogCGYjXY,
     callbackURL:
       process.env.AUTH0_CALLBACK_URL || 'http://localhost:3000/callback'
   },
